@@ -70,4 +70,7 @@ dependencies {
     // Navigation
     implementation("androidx.compose.material:material:1.6.5")
     implementation("androidx.navigation:navigation-compose:2.4.0-alpha10")
+
+    // Google map
+    implementation("com.google.maps.android:maps-compose:4.3.3")
 }
